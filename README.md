@@ -22,6 +22,8 @@
 - `pkg install git`
 
 
+- `rm -rf Enc-Marshal`
+
 
 - `git clone https://github.com/SIFAT-007/Enc-Marshal`
 
