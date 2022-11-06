@@ -1,4 +1,4 @@
 import os
 os.system("git pull")
-import p
-p.main()
+import py3
+py3.main()
